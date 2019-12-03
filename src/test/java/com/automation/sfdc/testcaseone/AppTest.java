@@ -1,4 +1,4 @@
-package com.Mavendemo;
+package com.automation.sfdc.testcaseone;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

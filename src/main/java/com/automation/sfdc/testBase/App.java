@@ -1,4 +1,4 @@
-package com.Mavendemo;
+package com.automation.sfdc.testBase;
 
 /**
  * Hello world!
