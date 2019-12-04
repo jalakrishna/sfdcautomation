@@ -1,0 +1,53 @@
+{
+
+"loginInfo": 
+		{
+			"browser": "chrome",
+			"runmode": "local",
+			"adminUsername": "jalakrishnaalapati@iheartmedia.com.crmuat",
+			"adminPassword": "Sales123!@#",
+			"SFDCTestUrl": "https://test.salesforce.com/",
+			"mintUsername": "salesforce1test1@iheartmedia.com",
+			"mintPassword": "Testuser1",
+			"uatUsername": "",
+			"uatPassword": ""
+		},
+	"oAuthPoints": 
+		{
+			"test": "https://salesforce.com/services/Soap/u/38.0/",
+			"crmuat": "https:salesforce.com/services/Soap/u/38.0/",
+			"ci": "https://ihm--up.cs23.my.salesforce.com/services/Soap/u/38.0/"
+	},
+	
+	"users": 
+		{
+
+
+		},
+
+	"profiles": 
+		{
+
+			
+		},
+	"reDirectUrls": 
+		{
+
+
+			
+		},
+		
+	"recordTypes": 
+		{
+
+			
+		},
+		
+	"opportunityTestData": 
+		{
+			
+		}
+
+
+
+}
