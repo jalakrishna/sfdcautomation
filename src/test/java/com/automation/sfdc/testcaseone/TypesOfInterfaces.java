@@ -1,7 +1,6 @@
 package com.automation.sfdc.testcaseone;
 
-import com.automation.java.learning.AnonymousClass;
-import com.automation.java.learning.TypesOfInterfaces.Cars;
+
 
 public class TypesOfInterfaces extends AnonymousClass {
 	
