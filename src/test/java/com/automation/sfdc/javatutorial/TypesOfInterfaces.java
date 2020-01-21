@@ -11,7 +11,7 @@ public class TypesOfInterfaces {
 		void showComputerModels();
 	
 	}
-	
+
 	
 	public static void main(String[] args) {
 		
@@ -26,6 +26,9 @@ public class TypesOfInterfaces {
 		
 		iPadsModels obj2 = () -> System.out.println("");
 		obj2.showIPadModels();
+		
+		
+
 		
 	}
 
