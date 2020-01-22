@@ -29,4 +29,7 @@ class mobileModelClass implements mobileModels2019 {
 		
 	}
 	
+	mobileModelClass obj =  new mobileModelClass();
+
+	
 }
